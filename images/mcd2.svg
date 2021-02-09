@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190px" height="692px" viewBox="-5 -5 190 692"><style>text {
+  fill: #333;
+  font-family: Arial, sans-serif;
+}
+
+.node line {
+  stroke: #ccc;
+}
+.node .background {
+  fill: #f0f0f0;
+}
+.node .border {
+  fill-opacity: 0;
+  stroke: #888;
+  stroke-width: 2;
+}
+
+.link line {
+  stroke: #bbb;
+  stroke-width: 2;
+}
+.link path {
+  fill: #bbb;
+  stroke: #bbb;
+}
+/*# sourceURL=webpack://./src/components/uml/svg.scss */
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL3NyYy9jb21wb25lbnRzL3VtbC9zdmcuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLFVBQUE7RUFDQSw4QkFBQTtBQUNGOztBQUdFO0VBQ0UsWUFBQTtBQUFKO0FBR0U7RUFDRSxhQUFBO0FBREo7QUFJRTtFQUNFLGVBQUE7RUFDQSxZQUFBO0VBQ0EsZUFBQTtBQUZKOztBQU9FO0VBQ0UsWUFBQTtFQUNBLGVBQUE7QUFKSjtBQU9FO0VBQ0UsVUFBQTtFQUNBLFlBQUE7QUFMSiIsInNvdXJjZXNDb250ZW50IjpbInRleHQge1xuICBmaWxsOiAjMzMzO1xuICBmb250LWZhbWlseTogQXJpYWwsIHNhbnMtc2VyaWY7XG59XG5cbi5ub2RlIHtcbiAgbGluZSB7XG4gICAgc3Ryb2tlOiAjY2NjO1xuICB9XG5cbiAgLmJhY2tncm91bmQge1xuICAgIGZpbGw6ICNmMGYwZjA7XG4gIH1cblxuICAuYm9yZGVyIHtcbiAgICBmaWxsLW9wYWNpdHk6IDA7XG4gICAgc3Ryb2tlOiAjODg4O1xuICAgIHN0cm9rZS13aWR0aDogMjtcbiAgfVxufVxuXG4ubGluayB7XG4gIGxpbmUge1xuICAgIHN0cm9rZTogI2JiYjtcbiAgICBzdHJva2Utd2lkdGg6IDI7XG4gIH1cblxuICBwYXRoIHtcbiAgICBmaWxsOiAjYmJiO1xuICAgIHN0cm9rZTogI2JiYjtcbiAgfVxufVxuXG4iXSwic291cmNlUm9vdCI6IiJ9 */</style><g class="node" transform="translate(5, 0)"><rect class="background" x="-5" rx="5" width="180" height="54"></rect><text text-anchor="start" x="0" y="17">boards</text><g transform="translate(0, 29)"><line stroke-width="2" x1="-5" x2="175" y1="-3" y2="-3"></line><text fill="white" text-anchor="start" x="0" y="17">name</text></g><rect class="border" x="-5" rx="5" width="180" height="54"></rect></g><g class="node" transform="translate(25, 154)"><ellipse class="background" cx="65" cy="20" rx="70" ry="20"></ellipse><text text-anchor="middle" x="65" y="24">have</text><ellipse class="border" cx="65" cy="20" rx="70" ry="20"></ellipse></g><g class="node" transform="translate(5, 294)"><rect class="background" x="-5" rx="5" width="180" height="74"></rect><text text-anchor="start" x="0" y="17">statuses</text><g transform="translate(0, 29)"><line stroke-width="2" x1="-5" x2="175" y1="-3" y2="-3"></line><text fill="white" text-anchor="start" x="0" y="17">name</text><text fill="white" text-anchor="start" x="0" y="37">story_order</text></g><rect class="border" x="-5" rx="5" width="180" height="74"></rect></g><g class="node" transform="translate(25, 468)"><ellipse class="background" cx="65" cy="20" rx="70" ry="20"></ellipse><text text-anchor="middle" x="65" y="24">assigned</text><ellipse class="border" cx="65" cy="20" rx="70" ry="20"></ellipse></g><g class="node" transform="translate(5, 608)"><rect class="background" x="-5" rx="5" width="180" height="74"></rect><text text-anchor="start" x="0" y="17">stories</text><g transform="translate(0, 29)"><line stroke-width="2" x1="-5" x2="175" y1="-3" y2="-3"></line><text fill="white" text-anchor="start" x="0" y="17">title</text><text fill="white" text-anchor="start" x="0" y="37">description</text></g><rect class="border" x="-5" rx="5" width="180" height="74"></rect></g><g transform="translate(90, 54)" class="link"><line x1="0" y1="0" x2="0" y2="100"></line><text text-anchor="start" x="10" y="60">1</text></g><g transform="translate(90, 194)" class="link"><line x1="0" y1="0" x2="0" y2="100"></line><text text-anchor="start" x="10" y="60">1, n</text></g><g transform="translate(90, 368)" class="link"><line x1="0" y1="0" x2="0" y2="100"></line><text text-anchor="start" x="10" y="60">1</text></g><g transform="translate(90, 508)" class="link"><line x1="0" y1="0" x2="0" y2="100"></line><text text-anchor="start" x="10" y="60">1, n</text></g></svg>
